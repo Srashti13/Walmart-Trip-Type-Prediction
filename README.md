@@ -5,7 +5,7 @@ The objective of this project is to be able to classify customer trips at walmar
 
 ### Data
 The data was obtained from kaggle website and consists of various columns such as:  
-![data pic](DataSnapshot.PNG)
+![data pic](Pics/DataSnapshot.PNG)
 
 
 ### Modelling
