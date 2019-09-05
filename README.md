@@ -10,7 +10,7 @@ The data was obtained from kaggle website and consists of various columns such a
 Visualizations:
 ![Viz1](Pics/UniqueTrips.PNG)
 
-![Viz2](Pics/Top 30 Departments.PNG)
+![Viz2](Pics/Top\ 30\ Departments.PNG)
 
 ### Modelling
 Used different classification model to predict trip type at Walmart using customer data. Models such as Random Forest and Gradient Boosting are applied. The code is completely written in R.
