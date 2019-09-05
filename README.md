@@ -4,7 +4,7 @@ This project is built as a part of end project for " Applied Statistics and Visu
 The objective of this project is to be able to classify customer trips at walmart using only a transactional dataset of the items they've purchased.  
 
 ### Data
-The data was obtained from kaggle website and consists of various columns such as:
+The data was obtained from kaggle website and consists of various columns such as:  
 ![data pic]()
 
 ### Modelling
